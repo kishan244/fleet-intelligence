@@ -1,0 +1,7 @@
+data/*.csv
+output/df_all_clean.csv
+output/df_stations_clean.csv
+venv/
+.venv/
+__pycache__/
+.DS_Store
