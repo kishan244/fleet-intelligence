@@ -1,0 +1,5 @@
+From Zone,To Zone,Bikes to Move,Distance (km),Cost (EUR)
+Low-Activity Residential,High-Demand Evening Hub,233,3.14,547.95
+Morning Commuter Feeder,Weekday Commuter Hub,67,3.45,173.29
+Morning Commuter Feeder,High-Demand Evening Hub,89,3.1,206.6
+Leisure & Tourist Zone,Weekday Commuter Hub,19,5.65,80.51
